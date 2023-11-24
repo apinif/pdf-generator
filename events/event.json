@@ -1,0 +1,9 @@
+{ "body": {"group_name": "Grupo 1", 
+            "request_id": "1", 
+            "event_name": "Evento 1", 
+            "event_date": "2021-10-10", 
+            "event_location": "Lugar 1", 
+            "name": "Cliente 1", 
+            "email": "apf@uc.cl", 
+            "quantity": "2"}
+}
